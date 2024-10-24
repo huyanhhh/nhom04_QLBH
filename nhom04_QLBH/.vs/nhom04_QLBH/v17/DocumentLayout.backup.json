@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huyanh\\OneDrive\\Desktop\\nhom04_QLBH\\nhom04_QLBH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|c:\\users\\huyanh\\onedrive\\desktop\\nhom04_qlbh\\nhom04_qlbh\\nhom04_qlbh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\Form1.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\Form1.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\Form1.cs [Design]",
+              "RelativeToolTip": "nhom04_QLBH\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:50:16.841Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
