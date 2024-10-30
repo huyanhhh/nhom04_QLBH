@@ -3,8 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_qlbh\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|c:\\users\\huyanh\\onedrive\\desktop\\new folder\\nhom04_qlbh\\nhom04_qlbh\\nhom04_qlbh\\xacnhanotpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\xacnhanotpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|c:\\users\\huyanh\\onedrive\\desktop\\new folder\\nhom04_qlbh\\nhom04_qlbh\\nhom04_qlbh\\xacnhanotpform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\xacnhanotpform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|c:\\users\\huyanh\\onedrive\\desktop\\new folder\\nhom04_qlbh\\nhom04_qlbh\\nhom04_qlbh\\xacnhanotpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\xacnhanotpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_qlbh\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,6 +36,7 @@
       "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\models\\modelquanlybanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|c:\\users\\mduy3\\onedrive\\m\u00E1y t\u00EDnh\\doan\\nhom04_qlbh\\nhom04_qlbh\\nhom04_qlbh\\frmdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\frmdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +47,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_qlbh\\ui\\uc_trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\ui\\uc_trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|c:\\users\\huyanh\\onedrive\\desktop\\new folder\\nhom04_qlbh\\nhom04_qlbh\\nhom04_qlbh\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|solutionrelative:nhom04_qlbh\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{94DD10C5-57B1-4D61-B371-BF3ADF60FFFD}|nhom04_QLBH\\nhom04_QLBH.csproj|C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_qlbh\\ui\\uc_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -130,6 +148,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -142,22 +161,85 @@
               "RelativeToolTip": "nhom04_QLBH\\frmGiaoDienMuaHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:46:13.509Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XacNhanOtpForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\XacNhanOtpForm.Designer.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\XacNhanOtpForm.Designer.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\XacNhanOtpForm.Designer.cs",
+              "RelativeToolTip": "nhom04_QLBH\\XacNhanOtpForm.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA0wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:48:38.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XacNhanOtpForm.cs",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\XacNhanOtpForm.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\XacNhanOtpForm.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\XacNhanOtpForm.cs",
+              "RelativeToolTip": "nhom04_QLBH\\XacNhanOtpForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:46:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XacNhanOtpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\XacNhanOtpForm.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\XacNhanOtpForm.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\XacNhanOtpForm.cs [Design]",
+              "RelativeToolTip": "nhom04_QLBH\\XacNhanOtpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:46:12.277Z",
+>>>>>>> Stashed changes
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "frmNhanVien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "nhom04_QLBH\\frmNhanVien.cs",
               "ToolTip": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\frmNhanVien.cs [Design]",
               "RelativeToolTip": "nhom04_QLBH\\frmNhanVien.cs [Design]",
+=======
+              "DocumentIndex": 5,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\HangHoa.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\HangHoa.cs",
+              "RelativeToolTip": "nhom04_QLBH\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:47:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangHoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\HangHoa.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\HangHoa.cs [Design]",
+              "RelativeToolTip": "nhom04_QLBH\\HangHoa.cs [Design]",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T11:33:08.005Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "frmNhanVien.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\frmNhanVien.Designer.cs",
@@ -165,6 +247,15 @@
               "ToolTip": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\frmNhanVien.Designer.cs",
               "RelativeToolTip": "nhom04_QLBH\\frmNhanVien.Designer.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAkwN0AAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 4,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\KhachHang.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\KhachHang.cs",
+              "RelativeToolTip": "nhom04_QLBH\\KhachHang.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T11:35:17.037Z",
               "EditorCaption": ""
@@ -184,6 +275,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
               "Title": "ModelQuanLyBanHang.cs",
               "DocumentMoniker": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\Models\\ModelQuanLyBanHang.cs",
@@ -191,6 +283,15 @@
               "ToolTip": "C:\\Users\\mduy3\\OneDrive\\M\u00E1y t\u00EDnh\\DoAn\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\Models\\ModelQuanLyBanHang.cs",
               "RelativeToolTip": "nhom04_QLBH\\Models\\ModelQuanLyBanHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+=======
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\Program.cs",
+              "RelativeDocumentMoniker": "nhom04_QLBH\\Program.cs",
+              "ToolTip": "C:\\Users\\huyanh\\OneDrive\\Desktop\\New folder\\nhom04_QLBH\\nhom04_QLBH\\nhom04_QLBH\\Program.cs",
+              "RelativeToolTip": "nhom04_QLBH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:02:34.334Z",
               "EditorCaption": ""
