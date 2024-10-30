@@ -116,21 +116,6 @@
     <Compile Include="frmThanhToanTrucTiep.Designer.cs">
       <DependentUpon>frmThanhToanTrucTiep.cs</DependentUpon>
     </Compile>
-    <Compile Include="Models\ModelQuanLyBanHang.cs" />
-    <Compile Include="Models\tblChatLieu.cs" />
-    <Compile Include="Models\tblChiTietGioHang.cs" />
-    <Compile Include="Models\tblChiTietHDBan.cs" />
-    <Compile Include="Models\tblChiTietPhieuNhap.cs" />
-    <Compile Include="Models\tblGioHang.cs" />
-    <Compile Include="Models\tblHang.cs" />
-    <Compile Include="Models\tblHDBan.cs" />
-    <Compile Include="Models\tblKhach.cs" />
-    <Compile Include="Models\tblKho.cs" />
-    <Compile Include="Models\tblKhoHang.cs" />
-    <Compile Include="Models\tblNhaCungCap.cs" />
-    <Compile Include="Models\tblNhanVien.cs" />
-    <Compile Include="Models\tblPhieuNhap.cs" />
-    <Compile Include="Models\tblVaiTro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UI\UC_GioHang.cs">
